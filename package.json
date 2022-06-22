@@ -16,6 +16,6 @@
     "prettier": "^1.18.2"
   },
   "dependencies": {
-    "got": "^9.6.0"
+    "got": "^11.8.5"
   }
 }
